@@ -10,7 +10,7 @@ metadata:
     app.kubernetes.io/part-of: nodejs-rest-http-3
   name: nodejs-rest-http-sw8y
 spec:
-  replicas: 1
+  replicas: 0
   revisionHistoryLimit: 0
   selector:
     matchLabels:
